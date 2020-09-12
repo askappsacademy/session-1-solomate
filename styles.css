@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-color: green;
+  width: 800px;
+}
+#heading{
+  background-color: black;
+  color:white;
+  background-image: url('img/video.png');
+}
+.video{
+  border: 1px solid;
+}
